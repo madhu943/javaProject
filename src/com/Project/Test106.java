@@ -14,7 +14,7 @@ public class Test106 {
 		return new boolean[] {true,false,true};
 	}
 	void meth2(int arr[]) {
-		System.out.println("meth2 called");
+		System.out.println("meth2 called .... test");
 		System.out.println(Arrays.toString(arr));
 	}
 
